@@ -24,6 +24,7 @@ public class p45 {
 		System.out.print("liczb parzystych jest = " + licznik);
 		
 		System.out.println(" - Brawo ty!");
+		System.out.println(" - Brawo ja!");
 	}
 
 }
